@@ -6,8 +6,8 @@
   border-color: --var(--highlight);
 }
 
-.b--white {
-  border-color: var(--white);
+.b--red {
+  border-color: var(--red);
 }
 
 .b--off-white {
