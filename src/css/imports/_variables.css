@@ -1,6 +1,6 @@
 :root {
 	/* Colors */
-	--primary: rgba(211, 211, 211, 1);
+	--primary: rgba(169, 169, 169, 1);
 	--highlight: rgba(255, 0, 0, 1);
 	--white: rgba(255, 255, 255, 1);
 	--off-white: rgba(255, 253, 252, 1);
@@ -11,7 +11,7 @@
 	--black: rgba(43, 37, 35, 1);
 
 	/* Typography */
-	--font-family: Nunito Sans, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
+	--font-family: Roboto Slab, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
 	--line-height: 1.5;
 
 	--font-size: 18px;
