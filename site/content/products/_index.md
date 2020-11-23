@@ -31,7 +31,7 @@ main:
     It is important to exercise and work out in accordance with your body and your goals in mind. If someone is training to run a marathon, they are not going to be lifting heavy weight right before the race. A workout plan personalized to an individual's needs is ideal and the best way to get the best results.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/troy.jpg
+    image: /img/goggins.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
     image: /img/girl lifting.jpg
