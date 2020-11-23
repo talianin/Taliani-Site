@@ -13,20 +13,12 @@ intro:
     - image: /img/woman lifting.jpg
       text: >
         Lifting weights is one of the most popular types of exercise today. It is great for building muscle and toning your body which overall increases your fitness level. Muscular strength gained from lifting can help the body to recover quicker and simply be stronger.
-    - image: /img/illustrations-tutorials.svg
+    - image: /img/stretch.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
+        Flexibility is a component of fitness that often gets overlooked. It is extremely important for someone to properly stretch before and after physical activity. Stretching can help boost growth and help muscles to grow more. Being flexible is a key to a healthy lifestyle.
+    - image: /img/hoops.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Playing sports either recreational or organized is fantastic way to get active and improve fitness levels. Different sports work different muscle groups and so it is important to try different things and play against different people in order to maximize your experience.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
