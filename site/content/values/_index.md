@@ -2,31 +2,19 @@
 title: "Diet"
 image: /img/healthy foods.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Fruits"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
+      Eating fruits help to give the body essential vitamins and minerals it needs. They also provide antioxidants to the body which help it function properly. There is no real drawback from eating much fruit and it is very beneficial to the human body.
     imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+  - heading: "Vegetables"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
+      Vegetables provide the body with vitamins it can use as fuel. Most vegetables contain high amounts of fiber which is fantastic for your muscles and overall health. Vegetables are also low-fat and do not hold a lot of calories which is great.
     imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+  - heading: "Protein"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
+      Protein is necessary for the human body to function. Proteins are what makes up the cells in our bodies and is what 
     imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
+  - heading: "Grains"
     text: >
       We want to truly empower the communities that bring amazing
       coffee to you. That’s why we reinvest 20% of our profits into
@@ -34,7 +22,7 @@ values:
       grown. You can see the communities grow and learn more about
       coffee farming on our blog.
     imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
+  - heading: "Dairy"
     text: >
       We want to truly empower the communities that bring amazing
       coffee to you. That’s why we reinvest 20% of our profits into
