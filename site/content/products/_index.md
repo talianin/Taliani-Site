@@ -1,7 +1,7 @@
 ---
-title: Our Coffee
+title: Exercise
 type: products
-image: /img/products-jumbotron.jpg
+image: /img/heavylifting-1.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -98,5 +98,3 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
-
