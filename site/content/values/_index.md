@@ -1,6 +1,6 @@
 ---
 title: "Diet"
-image: /img/salad.jpg
+image: /img/healthy foods.jpg
 values:
   - heading: "Shade-grown coffee"
     text: >
