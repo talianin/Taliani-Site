@@ -26,12 +26,9 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Exercise Personalization
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    It is important to exercise and work out in accordance with your body and your goals in mind. If someone is training to run a marathon, they are not going to be lifting heavy weight right before the race. A workout plan personalized to an individual's needs is ideal and a way to get the best results.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
