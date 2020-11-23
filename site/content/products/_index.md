@@ -2,27 +2,17 @@
 title: Exercise
 type: products
 image: /img/heavylifting-1.jpg
-heading: What we offer
+heading: Types of Exercise
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  The definition of exercise is explained as "activity requiring physical effort, carried out to sustain or improve health and fitness".
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: /img/runners.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations-coffee-gear.svg
+        Running is a great activity that helps improve overall fitness. Whether it is an aerobic run or an anaerobic run, it will help the body function better in the future. Running helps with muscular endurance in the legs and the core along with the addition of a healthy heart and efficient lungs.
+    - image: /img/woman lifting.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Lifting weights is one of the most popular types of exercise today. It is great for building muscle and toning your body which overall increases your fitness level. Muscular strength gained from lifting can help the body to recover quicker and simply be stronger.
     - image: /img/illustrations-tutorials.svg
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
