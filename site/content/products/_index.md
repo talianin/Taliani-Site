@@ -19,10 +19,12 @@ intro:
     - image: /img/hoops.jpg
       text: >
         Playing sports either recreational or organized is fantastic way to get active and improve fitness levels. Different sports work different muscle groups and so it is important to try different things and play against different people in order to maximize your experience.
-  heading: Types of Exercise
+  heading: What we offer
   description: >
-  The definition of exercise is explained as "activity requiring physical effort, carried out to sustain or improve health and fitness". There are many types and forms of exercise but below are a few of the most popular kinds.
-
+    Kaldi is the ultimate spot for coffee lovers who want to learn about their
+    java’s origin and support the farmers that grew it. We take coffee
+    production, roasting and brewing seriously and we’re glad to pass that
+    knowledge to anyone. This is an edit via identity...
 main:
   heading: Great coffee with no compromises
   description: >
