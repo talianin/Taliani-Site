@@ -12,22 +12,14 @@ values:
     imageUrl: "/img/pic.jpg"
   - heading: "Protein"
     text: >
-      Protein is necessary for the human body to function. Proteins are what makes up the cells in our bodies and is what
+      Protein is necessary for the human body to function. Proteins are what makes up the cells in our bodies and is what helps build muscle. Many different kinds of supplements and powders exist but natural protein through foods is the best in my opinion.
     imageUrl: "/img/pic.jpg"
   - heading: "Grains"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+      Grains provide many nutrients to the body and are a good source of fiber. People that incorporate grains into their diets are also at a lower risk for chronic diseases and other health problems as they grow older.
     imageUrl: "/img/pic.jpg"
   - heading: "Dairy"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+      Dairy has a main task of providing health to the bones in the human body as well as promoting bone growth. Dairy products contain much calcium and potassium as well as other vitamins such as Vitamin D for the body.
     imageUrl: "/img/pic.jpg"
 ---
