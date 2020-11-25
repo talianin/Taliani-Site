@@ -20,4 +20,7 @@ with our baristas. Don’t be shy, drop us a line!
 
 https://formspree.io/f/mvovbzjq
 
-<input type="text" id="name" name="name"/>
+| Syntax | Description |
+| --- | ----------- |
+| Header | Title |
+| Paragraph | Text |
