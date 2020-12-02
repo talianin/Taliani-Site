@@ -36,13 +36,12 @@ main:
     alt: Coffee beans
     image: /img/pic.jpg
 testimonials:
-  - author: Arnold Schwarzenegger
+  - author: Nick Taliani
     quote: >-
-      If you don't find the time, if you don't do the work, you don't get the results.
-  - author: Joe Rogan
+      Get in the gym or on the track or wherever it is that you exercise, work hard, and you will see results. I promise you.
+  - author: Matt Taliani
     quote: >-
-      There's a direct correlation between positive energy and positive results in the physical form.
-full_image: /img/pic.jpg
+      Lifting and exercising is a way for me to relax and clear my mind while at the same time improving my body and my lifestyle.
 pricing:
   heading: Monthly subscriptions
   description: >-
