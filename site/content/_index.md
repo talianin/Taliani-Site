@@ -13,7 +13,7 @@ products:
       text: "Eating healthy is one of the hardest habits to acquire, yet one of the most important. Proper nutrition is sometimes overlooked but it necessary for the body to consume the right amount of food along with the right types of food."
     - image: /img/pic.jpg
       text: "Completing the right amount of exercise along with the right type of exercise can be tricky at times. Proper exercise all depends on your body and yourself as a person. Keeping the body in shape will help your overall fitness."
-values:
+weights:
     heading: Who is the enemy?
     text: Many people get caught up in the competitive battle with other people in terms of appearance and abilities. Envy plays a part in everyone's life and so it is crucial to keep in mind that the only person you are competing against is yourself!
 ---
