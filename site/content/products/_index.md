@@ -1,13 +1,13 @@
 ---
 title: Exercise
 type: products
-image: /img/pic.jpg
+image: /img/dumbbells.jpg
 heading: Types of Exercise
 description: >-
   The definition of exercise is explained as "activity requiring physical effort, carried out to sustain or improve health and fitness".
 intro:
   blurbs:
-    - image: /img/pic.jpg
+    - image: /img/marathon.jpg
       text: >
         Running is a great activity that helps improve overall fitness. Whether it is an aerobic run or an anaerobic run, it will help the body function better in the future. Running helps with muscular endurance in the legs and the core along with the addition of a healthy heart and efficient lungs.
     - image: /img/pic.jpg
@@ -31,7 +31,7 @@ main:
     image: /img/pic.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/pic.jpg
+    image: /img/soccer.jpg
   image3:
     alt: Coffee beans
     image: /img/pic.jpg
