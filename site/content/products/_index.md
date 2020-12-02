@@ -21,7 +21,7 @@ intro:
         Playing sports either recreational or organized is fantastic way to get active and improve fitness levels. Different sports work different muscle groups and so it is important to try different things and play against different people in order to maximize your experience.
   heading: What is Exercise?
   description: >
-  The definition of exercise is explained as "activity requiring physical effort, carried out to sustain or improve health and fitness".
+    The definition of exercise is explained as "activity requiring physical effort, carried out to sustain or improve health and fitness".
 main:
   heading: Exercise Personalization
   description: >
