@@ -10,13 +10,13 @@ intro:
     - image: /img/marathon.jpg
       text: >
         Running is a great activity that helps improve overall fitness. Whether it is an aerobic run or an anaerobic run, it will help the body function better in the future. Running helps with muscular endurance in the legs and the core along with the addition of a healthy heart and efficient lungs.
-    - image: /img/pic.jpg
+    - image: /img/lifting.jpg
       text: >
         Lifting weights is one of the most popular types of exercise today. It is great for building muscle and toning your body which overall increases your fitness level. Muscular strength gained from lifting can help the body to recover quicker and simply be stronger.
-    - image: /img/pic.jpg
+    - image: /img/flexibility.jpg
       text: >
         Flexibility is a component of fitness that often gets overlooked. It is extremely important for someone to properly stretch before and after physical activity. Stretching can help boost growth and help muscles to grow more. Being flexible is a key to a healthy lifestyle.
-    - image: /img/pic.jpg
+    - image: /img/soccer.jpg
       text: >
         Playing sports either recreational or organized is fantastic way to get active and improve fitness levels. Different sports work different muscle groups and so it is important to try different things and play against different people in order to maximize your experience.
   heading: What is Exercise?
@@ -31,7 +31,7 @@ main:
     image: /img/pic.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/soccer.jpg
+    image: /img/g.jpg
   image3:
     alt: Coffee beans
     image: /img/pic.jpg
