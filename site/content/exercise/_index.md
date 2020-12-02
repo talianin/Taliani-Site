@@ -1,6 +1,6 @@
 ---
 title: Exercise
-type: products
+type: exercise
 image: /img/pic.jpg
 heading: Types of Exercise
 description: >-
