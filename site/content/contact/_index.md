@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-logo: "/img/logo.svg"
+logo: "/img/man running.svg"
 contact_entries:
   - heading: Location
     text: "12345 Fitness Street, Pittsburgh, Pennsylvania 55555"
