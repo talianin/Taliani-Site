@@ -19,7 +19,7 @@ intro:
     - image: /img/pic.jpg
       text: >
         Playing sports either recreational or organized is fantastic way to get active and improve fitness levels. Different sports work different muscle groups and so it is important to try different things and play against different people in order to maximize your experience.
-  heading: What we offer
+  heading: What is Exercise?
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
