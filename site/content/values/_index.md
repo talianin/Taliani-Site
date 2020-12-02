@@ -1,6 +1,6 @@
 ---
 title: "Diet"
-image: /img/strawberries.jpg
+image: /img/berries.jpg
 values:
   - heading: "Fruits"
     text: >
