@@ -1,7 +1,7 @@
 ---
 title: "Diet"
 image: /img/pic.jpg
-weights:
+values:
   - heading: "Fruits"
     text: >
       Eating fruits help to give the body essential vitamins and minerals it needs. They also provide antioxidants to the body which help it function properly. There is no real drawback from eating much fruit and it is very beneficial to the human body.
