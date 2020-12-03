@@ -32,9 +32,6 @@ main:
   image2:
     alt: A green cup of a coffee on a wooden table
     image: /img/olympics.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/squat.png
 testimonials:
   - author: Nick Taliani
     quote: >-

@@ -3,7 +3,7 @@ title: "Contact"
 logo: "/img/running.jpg"
 contact_entries:
   - heading: Contact Information
-    text: "Fitnessland, PA . . . 1-800-FITNESS . . . call anytime"
+    text: "[Google] (www.google.com)"
   - heading:
     text:
 ---
