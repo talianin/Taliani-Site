@@ -3,9 +3,9 @@ title: "Contact"
 logo: "/img/man running.jpg"
 contact_entries:
   - heading: Location
-    text: "12345 Fitness Street, Pittsburgh, Pennsylvania 55555"
-  - heading:
-    text: "1-800"
+    text: "Located in Fitnessland, PA"
+  - heading:Contact Information
+    text: "1-800-FITNESS . . . call anytime"
 ---
 
 Taliani Fitness believes in the importance of having a high level of fitness. Aligning the mind, body and spirit is essential for a fit lifestyle. Eating right and proper exercise can change someone's life forever, and for the better.
