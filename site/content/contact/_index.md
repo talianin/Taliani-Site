@@ -4,7 +4,6 @@ logo: "/img/man running.jpg"
 contact_entries:
   - heading: Location
     text: "12345 Fitness Street, Pittsburgh, Pennsylvania 55555"
-    "1-800-FITNESS"
   - heading:
     text: "1-800"
 ---
