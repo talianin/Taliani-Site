@@ -3,7 +3,7 @@ title: Collin prevails on the basketball court
 date: 2017-01-04T15:04:10.000Z
 description: >-
   Not only did Collin win their game this week, he won it convincingly. Nick, Matt and Garrett had no chance as Collin could not stop scoring.
-image: /img/blog-chemex.jpg
+image: /img/hoops.jpg
 ---
 
 The kids persisted on playing basketball in the driveway this week even through the pouring rain. As long as there was not thunder or lightning, they thought it would be okay for them to continue playing.

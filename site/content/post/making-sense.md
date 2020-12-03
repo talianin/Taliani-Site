@@ -2,7 +2,7 @@
 title: "Matt bikes 50 miles over the weekend"
 date: 2016-12-17T15:04:10.000Z
 description: Coming off of a rough week at work, Matt decides to take a long bike ride through the countryside.
-image: /img/blog-flavor_wheel.jpg
+image: /img/biking.jpg
 ---
 
 Matt not only went for a bike ride, he decided to go for a long bike ride. While it is unsure where he went, he made it back safely but was obviously very tired afterwards.
