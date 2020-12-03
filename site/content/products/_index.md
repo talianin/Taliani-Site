@@ -15,7 +15,7 @@ intro:
         Lifting weights is one of the most popular types of exercise today. It is great for building muscle and toning your body which overall increases your fitness level. Muscular strength gained from lifting can help the body to recover quicker and simply be stronger.
     - image: /img/flexibility.jpg
       text: >
-        Flexibility is a component of fitness that often gets overlooked. It is extremely important for someone to properly stretch before and after physical activity. Stretching can help boost growth and help muscles to grow more. Being flexible is a key to a healthy lifestyle [Google](www.google.com).
+        Flexibility is a component of fitness that often gets overlooked. It is extremely important for someone to properly stretch before and after physical activity. Stretching can help boost growth and help muscles to grow more. Being flexible is a key to a healthy lifestyle.
     - image: /img/soccer.jpg
       text: >
         Playing sports either recreational or organized is fantastic way to get active and improve fitness levels. Different sports work different muscle groups and so it is important to try different things and play against different people in order to maximize your experience.
