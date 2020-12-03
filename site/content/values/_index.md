@@ -21,5 +21,5 @@ values:
   - heading: "Dairy"
     text: >
       Dairy has a main task of providing health to the bones in the human body as well as promoting bone growth. Dairy products contain much calcium and potassium as well as other vitamins such as Vitamin D for the body.
-    imageUrl: "/img/dairy.jpeg"
+    imageUrl: "/img/dairy.jpg"
 ---
