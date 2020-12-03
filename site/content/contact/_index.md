@@ -4,7 +4,7 @@ logo: "/img/man running.jpg"
 contact_entries:
   - heading: Location
     text: "Located in Fitnessland, PA"
-  - heading:Contact Information
+  - heading: Contact Information
     text: "1-800-FITNESS . . . call anytime"
 ---
 
