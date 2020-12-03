@@ -12,17 +12,18 @@ They played a total of 8 hours on Saturday and the boys definitely got their dai
 
 ## Traits of each player
 
-1. Nick
+- Nick
 
 Tall player with unique athletic abilities that help him be quicker than most opponents
 
-2. Matt
+- Matt
 
 Strong player that can drive to the hoop at almost any any time
 
-3. Garrett
+- Garrett
+
 Good shooter from the outside that has a crazy rebounding ability
 
-4. Collin
+- Collin
 
 Has great basketball sense and can score on almost anybody on the court
