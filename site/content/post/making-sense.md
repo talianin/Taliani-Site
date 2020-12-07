@@ -9,4 +9,4 @@ Matt not only went for a bike ride, he decided to go for a long bike ride. While
 
 ## Is biking a good source of physical activity?
 
-Biking is a great to build fitness. Biking at any age is good for the body and requires a certain type of person. Biking involves muscular strength as well as muscular endurance and so it can be strenuous on various muscle groups. It is almost like a mix between running and lifting weights and one can imagine that it is not easy. While Matt also enjoyed biking, he sort of steered away from it after he fell in love with the game of baseball.
+Biking is a great way to build fitness. Biking at any age is good for the body and requires a certain type of person. Biking involves muscular strength as well as muscular endurance and so it can be strenuous on various muscle groups. It is almost like a mix between running and lifting weights and one can imagine that it is not easy. While Matt also enjoyed biking, he sort of steered away from it after he fell in love with the game of baseball.

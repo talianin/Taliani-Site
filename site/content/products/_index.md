@@ -18,7 +18,7 @@ intro:
         Flexibility is a component of fitness that often gets overlooked. It is extremely important for someone to properly stretch before and after physical activity. Stretching can help boost growth and help muscles to grow more. Being flexible is a key to a healthy lifestyle.
     - image: /img/soccer.jpg
       text: >
-        Playing sports either recreational or organized is fantastic way to get active and improve fitness levels. Different sports work different muscle groups and so it is important to try different things and play against different people in order to maximize your experience.
+        Playing sports either recreational or organized is a fantastic way to get active and improve fitness levels. Different sports work different muscle groups and so it is important to try different things and play against different people in order to maximize your experience.
   heading: What is Exercise?
   description: >
     The definition of exercise is explained as "activity requiring physical effort, carried out to sustain or improve health and fitness".
@@ -33,10 +33,10 @@ main:
     alt: A green cup of a coffee on a wooden table
     image: /img/olympics.jpg
 testimonials:
-  - author: Nick Taliani
+  - author: Nick
     quote: >-
       Get in the gym or on the track or wherever it is that you exercise, work hard, and you will see results. I promise you.
-  - author: Matt Taliani
+  - author: Jack
     quote: >-
       Lifting and exercising is a way for me to relax and clear my mind while at the same time improving my body and my lifestyle.
 ---
