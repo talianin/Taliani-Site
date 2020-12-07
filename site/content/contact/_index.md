@@ -5,8 +5,7 @@ contact_entries:
   - heading: Contact Information
     text: "Fitnessland, PA . . . 1-800-FITNESS . . . call anytime"
   - heading:
-    text: [Googleeeee] (www.google.com)
-
+    text: 
 ---
 
 Taliani Fitness believes in the importance of having a high level of fitness. Aligning the mind, body and spirit is essential for a fit lifestyle. Eating right and proper exercise can change someone's life forever, and for the better.
