@@ -1,4 +1,5 @@
 ---
+# this is the weight room story and describes the record numbers in the weight room and includes a quote
 title: 'Taliani hits record numbers in weight room this week'
 date: 2017-01-04T15:04:10.000Z
 description: >-

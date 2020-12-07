@@ -1,4 +1,5 @@
 ---
+# this is the exercise page of the site and contains content that displays in the form of headings, images, and text
 title: Exercise
 type: products
 image: /img/dumbbells.jpg

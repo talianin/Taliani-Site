@@ -1,4 +1,5 @@
 ---
+# this is the diet page of the site and contains content that displays in the form of headings, images, and text
 title: "Diet"
 image: /img/berries.jpg
 values:

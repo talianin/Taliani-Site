@@ -1,4 +1,5 @@
 ---
+# this markdown file tells the basketball news story and includes a list in the text
 title: Collin prevails on the basketball court
 date: 2017-01-04T15:04:10.000Z
 description: >-

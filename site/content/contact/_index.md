@@ -1,4 +1,5 @@
 ---
+# this is the contact page of the site and contains content that displays in the form of headings, images, and text
 title: "Contact"
 logo: "/img/running.jpg"
 contact_entries:

@@ -1,4 +1,5 @@
 ---
+# this is the main page of the site and contains content that displays in the form of headings, images, and text
 title: "Taliani Fitness"
 subtitle: All about living a healthy lifestyle . . .
 image: /img/cover photo.jpg
