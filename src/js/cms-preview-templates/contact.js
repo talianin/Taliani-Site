@@ -1,4 +1,4 @@
-import React from "react";
+```import React from "react";
 
 const ContactEntry = ({heading, text}) =>
   <div>
@@ -26,3 +26,4 @@ export default class ContactPreview extends React.Component {
     </div>;
   }
 }
+```
